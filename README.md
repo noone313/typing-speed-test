@@ -1,3 +1,9 @@
+<video controls width="500">
+    <source src="2024-03-30 17-09-06.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 ### How the Program Works:
 The program executes a typing speed test using a text-based interface in the terminal. Upon running the program, a random text for the test appears on the screen, and the user is required to type the displayed text quickly using the keyboard. The inputs are tracked, and the number of correct and incorrect characters is continuously displayed while typing.
 
