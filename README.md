@@ -13,5 +13,8 @@ This program is beneficial for anyone looking to enhance their typing speed and 
     <source src="https://github.com/noone313/typing-speed-test/raw/main/2024-03-30%2017-09-06.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+![Video]([video.mp4](https://github.com/noone313/typing-speed-test))
+
+
 
 
