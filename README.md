@@ -9,5 +9,5 @@ The program executes a typing speed test using a text-based interface in the ter
 
 This program is beneficial for anyone looking to enhance their typing speed and accuracy, whether for personal or professional purposes.
 
-![Video](2024-03-30 17-09-06.mp4)
+![Video]([2024-03-30 17-09-06.mp4](https://github.com/noone313/typing-speed-test/raw/main/2024-03-30%2017-09-06.mp4))
 
